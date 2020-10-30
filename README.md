@@ -1,4 +1,4 @@
-# Monitoria-de-Econometria
+# Monitoria de Econometria
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Shanghai_University_of_Finance_and_Economics_logo.png/300px-Shanghai_University_of_Finance_and_Economics_logo.png)
 
